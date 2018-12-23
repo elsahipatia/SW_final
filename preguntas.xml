@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="verPreguntas.xsl"?>
+<assessmentItems>
+	<assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Tag HTML para añadir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> OBJECT </value>
+			<value> TABLE </value>
+			<value> DIV </value>
+		</incorrectResponses>
+
+	</assessmentItem>
+		<assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabará funcionando
+			incluso entre dos latas unidas por un cordón</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value> HTTP </value>
+			<value> SMTP </value>
+			<value> Ninguna es correcta </value>
+		</incorrectResponses>
+	</assessmentItem>
+
+	<assessmentItem subject="guapura" author="djimenez019@ikasle.ehu.eus">
+		<itemBody>
+			<p>elsa es la mas guapa del mundo?</p>
+		</itemBody>
+		<correctResponse>
+			<value>MECAGOENDIOS CLARO QUE SI</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value>si</value>
+			<value>si?</value>
+			<value>talvez</value>
+		</incorrectResponses>
+	</assessmentItem>
+	<assessmentItem subject="44" author="djimenez019@ikasle.ehu.eus">
+		<itemBody>
+			<p>vadillo es muy maj0?</p>
+		</itemBody>
+		<correctResponse>
+			<value>si</value>
+		</correctResponse>
+		<incorrectResponses>
+			<value>si123</value>
+			<value>33</value>
+			<value>34</value>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem subject="tema" author="djimenez019@ikasle.ehu.eus"><itemBody><p>tralari tralraarara</p></itemBody><correctResponse><value>si</value></correctResponse><incorrectResponses><value>no</value><value>2</value><value>1</value></incorrectResponses></assessmentItem><assessmentItem subject="tema" author="djimenez019@ikasle.ehu.eus"><itemBody><p>tralari tralraarara22222</p></itemBody><correctResponse><value>si</value></correctResponse><incorrectResponses><value>no</value><value>2</value><value>1</value></incorrectResponses></assessmentItem><assessmentItem subject="tema" author="djimenez019@ikasle.ehu.eus"><itemBody><p>tralari tralraarara3333333</p></itemBody><correctResponse><value>si</value></correctResponse><incorrectResponses><value>no</value><value>2</value><value>1</value></incorrectResponses></assessmentItem><assessmentItem subject="tema" author="djimenez019@ikasle.ehu.eus"><itemBody><p>tralari tralraarara3333333</p></itemBody><correctResponse><value>si</value></correctResponse><incorrectResponses><value>no</value><value>2</value><value>1</value></incorrectResponses></assessmentItem><assessmentItem subject="tralara" author="inesla001@ikasle.ehu.eus"><itemBody><p>tralararararararararara</p></itemBody><correctResponse><value>i</value></correctResponse><incorrectResponses><value>k</value><value>j</value><value>n</value></incorrectResponses></assessmentItem><assessmentItem subject="3" author="inesla001@ikasle.ehu.eus"><itemBody><p>oleiekeieieieieiiee</p></itemBody><correctResponse><value>p</value></correctResponse><incorrectResponses><value>p</value><value>p</value><value>p</value></incorrectResponses></assessmentItem><assessmentItem subject="asd" author="djimenez020@ikasle.ehu.eus"><itemBody><p>lalalasdddddddddddddddd</p></itemBody><correctResponse><value>aasd</value></correctResponse><incorrectResponses><value>asd</value><value>asd</value><value>asd3</value></incorrectResponses></assessmentItem><assessmentItem subject="ss" author="tralara001@ikasle.ehu.eus"><itemBody><p>que me container?</p></itemBody><correctResponse><value>nada</value></correctResponse><incorrectResponses><value>na</value><value>nah</value><value>ps</value></incorrectResponses></assessmentItem><assessmentItem subject="12" author="tralara001@ikasle.ehu.eus"><itemBody><p>asdasdasdsadsadasd</p></itemBody><correctResponse><value>asd</value></correctResponse><incorrectResponses><value>asd</value><value>asd</value><value>1</value></incorrectResponses></assessmentItem><assessmentItem subject="asd" author="admin@ehu.es"><itemBody><p>aaaaaaaaaaaaaaaaaaaa</p></itemBody><correctResponse><value>a</value></correctResponse><incorrectResponses><value>a</value><value>a</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem subject="das" author="admin@ehu.es"><itemBody><p>asdasdsadsadsadasdasdas</p></itemBody><correctResponse><value>sadasd</value></correctResponse><incorrectResponses><value>asdasd</value><value>asdasd</value><value>asdasd</value></incorrectResponses></assessmentItem><assessmentItem subject="asd" author="prueba017@ikasle.ehu.eus"><itemBody><p>sdasdasdasdasdasd</p></itemBody><correctResponse><value>a</value></correctResponse><incorrectResponses><value>a</value><value>a</value><value>a</value></incorrectResponses></assessmentItem><assessmentItem subject="1984" author="prueba019@ikasle.ehu.eus"><itemBody><p>¿Cuanto suman 2+2?</p></itemBody><correctResponse><value>5 (Orwell)</value></correctResponse><incorrectResponses><value>4</value><value>1</value><value>22</value></incorrectResponses></assessmentItem></assessmentItems>
